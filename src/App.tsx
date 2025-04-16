@@ -199,7 +199,7 @@ function App() {
             animate={controls}
             className="text-center"
           >
-            <h1 className="text-8xl font-bold mb-4 glitch-text">p4r45</h1>
+            <h1 className="text-8xl font-bold mb-4 glitch-text">पारस</h1>
             <TerminalEffect />
             
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
